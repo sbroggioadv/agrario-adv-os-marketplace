@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agrario-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Agrário Adv-OS. Direito Agrário brasileiro ponta a ponta para quem advoga pelo produtor rural e pelo agronegócio.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "agrario-adv-os",
+      "source": "./agrario-adv-os",
+      "description": "Especialista em Direito Agrário brasileiro ponta a ponta, para quem advoga pelo produtor rural e pelo agronegócio: contratos agrários (arrendamento, parceria, barter, integração, safra), crédito rural e dívida (CPR, cédulas, execução e embargos, revisional, prorrogação e a renegociação da MP 1.376/2026), recuperação judicial do produtor, terras e registral (due diligence, georreferenciamento, usucapião rural, estrangeiros, ITR), desapropriação e reforma agrária, ambiental do agro (CAR, PRA, auto de infração, embargo do IBAMA, licenciamento, EUDR) e o possessório do campo (despejo agrário, preferência do arrendatário), com recursos próprios até STJ e STF. Postura honesta e anti-alucinação por design.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

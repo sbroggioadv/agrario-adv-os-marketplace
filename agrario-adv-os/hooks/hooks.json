@@ -1,0 +1,13 @@
+{
+  "SessionStart": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo 'agrario-adv-os carregado — rode /start-agrario para configurar o escritorio ou /agrario-master para conduzir o caso. Janela da MP 1.376/2026 fecha em ~11/11/2026.'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}
