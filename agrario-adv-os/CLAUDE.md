@@ -1,6 +1,6 @@
 # agrario-adv-os — regras internas do plugin
 
-> Especialista em Direito Agrário brasileiro ponta a ponta, na perspectiva de **quem advoga pelo produtor rural e pelo agronegócio**. 65 skills em 10 camadas sobre o Estatuto da Terra (Lei 4.504/64), o Dec. 59.566/66, a Lei 8.629/93, a Lei do Agro (13.986/2020) e a Lei 8.929/94. Despersonalizado (autoria IA Combativa; escritório do cliente via `/start-agrario`). **O núcleo comercial é a C3 — crédito, dívida e insolvência.**
+> Especialista em Direito Agrário brasileiro ponta a ponta, na perspectiva de **quem advoga pelo produtor rural e pelo agronegócio**. 65 skills em 9 camadas (C0-C8) sobre o Estatuto da Terra (Lei 4.504/64), o Dec. 59.566/66, a Lei 8.629/93, a Lei do Agro (13.986/2020) e a Lei 8.929/94. Despersonalizado (autoria IA Combativa; escritório do cliente via `/start-agrario`). **O núcleo comercial é a C3 — crédito, dívida e insolvência.**
 
 ## Invioláveis (anti-alucinação por design)
 - **Nenhuma citação** de dispositivo, súmula, tema, provimento ou prazo entra em peça sem âncora no `context/`. Guard permanente: `anti-alucinacao-agraria`; validação final: `suprema-corte-agraria` (R1-R4) + `validador-agrario`.
@@ -50,7 +50,7 @@
 - **Art. 784 do CPC segue 🟡** — nenhum inciso nomeia cédula, CPR ou rural; a executividade vem de lei especial. **Cite o artigo, nunca o inciso.**
 
 ## Porta única
-`agrario-master` é o orquestrador: lê `context/metodologia-agraria.md`, classifica via `triagem-agraria` (**1ª pergunta sempre: há dívida vencida ou execução em curso?**), carrega `memoria-de-caso-agraria`, aplica a fundação C1, dirime as 65 skills das 10 camadas e fecha pela `suprema-corte-agraria` + `validador-agrario`. Cruzamento de domínios encadeia por `protocolo-p4-agrario`; voz e forma por `estilo-agrario`.
+`agrario-master` é o orquestrador: lê `context/metodologia-agraria.md`, classifica via `triagem-agraria` (**1ª pergunta sempre: há dívida vencida ou execução em curso?**), carrega `memoria-de-caso-agraria`, aplica a fundação C1, dirime as 65 skills das 9 camadas (C0-C8) e fecha pela `suprema-corte-agraria` + `validador-agrario`. Cruzamento de domínios encadeia por `protocolo-p4-agrario`; voz e forma por `estilo-agrario`.
 
 ## Fronteiras (cross-link soft, NÃO duplicar)
 Registral e usucapião **urbanos** → `direito-imobiliario-adv-os` · execução genérica → `execucao-adv-os` · contencioso tributário pesado → `tributario-societario-adv-os` · estrutura societária e sucessória → `holding-architect` · CPC integral → `civel-adv-os` · consumo bancário → `bancario-adv-os` · cálculo e auditoria de laudo → `calculosjudiciais-adv-os` · rito do leilão e arrematação → `leiloes-os` · vínculo de emprego na parceria simulada → `trabalhista-adv-os` · busca de jurisprudência ao vivo → `juris-adv-os`.
